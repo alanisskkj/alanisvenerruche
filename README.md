@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+</div>
+
 ## Olá pessoal, eu sou Alanis👋
 - **Sobre mim:**
 -Meu primeiro contato com todas essas ferramentas se iniciou em 2025, quando comecei a fazer curso de Análise e Desenvolvimento de Sistemas por meio do SENAI. Nos dias atuais exploro linguagens como o C++, HTML, Python e várias outras! 
