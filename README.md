@@ -20,7 +20,7 @@
 
 ## Entre em contato comigo
 <a href="https://www.instagram.com/alanisskj_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:contatoalanis.carvalho@aluno.senai.br">
+<a href="mailto:alanis.carvalho@aluno.senai.br">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
