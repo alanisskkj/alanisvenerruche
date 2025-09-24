@@ -2,7 +2,7 @@
 - **Sobre mim:**
 -Meu primeiro contato com todas essas ferramentas se iniciou em 2025, quando comecei a fazer curso de Análise e Desenvolvimento de Sistemas por meio do SENAI. Nos dias atuais exploro linguagens como o C++, HTML, Python e várias outras! 
 - 🌱 Atualmente aprendendo cada vez mais coisas sobre a tecnologia
-- 📫 Como entrar em contato comigo: @alanis.carvalho@aluno.senai.br
+- 📫 Como entrar em contato comigo: alanis.carvalho@aluno.senai.br
 - ⚡ Curiosidade: Apaixonada por tecnologia, games, música...
 
 ## Ferramentas e Tecnologias
